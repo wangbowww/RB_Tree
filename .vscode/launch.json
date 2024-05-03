@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Weirdo/Desktop/作业/大二下/数据结构/红黑树",
-      "program": "c:/Users/Weirdo/Desktop/作业/大二下/数据结构/红黑树/build/Debug/outDebug",
+      "cwd": "c:/Users/Weirdo/Desktop/作业/大二下/数据结构/RB_Tree/src/cpp/main",
+      "program": "c:/Users/Weirdo/Desktop/作业/大二下/数据结构/RB_Tree/src/cpp/main/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

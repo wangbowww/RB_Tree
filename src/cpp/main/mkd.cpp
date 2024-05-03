@@ -1,3 +1,7 @@
+/*
+生成测试数据，用来测试红黑树的查找插入删除
+*/
+
 #include<bits/stdc++.h>
 #define endl "\n"
 using namespace std;

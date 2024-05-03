@@ -1,3 +1,7 @@
+/*
+测试文件，可自行修改
+*/
+
 #include<bits/stdc++.h>
 #include"RB_tree.h"
 using namespace std;

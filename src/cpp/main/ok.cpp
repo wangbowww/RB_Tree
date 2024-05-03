@@ -1,3 +1,7 @@
+/*
+有正确性保证的map操作
+*/
+
 #include<bits/stdc++.h>
 #define endl "\n"
 using namespace std;

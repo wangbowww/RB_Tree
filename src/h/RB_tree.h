@@ -1,3 +1,9 @@
+/*
+红黑树的核心实现
+提供插入、删除、查找操作
+并提供了一个该数据结构的迭代器
+*/
+
 #ifndef _RB_TREE_H_
 #define _RB_TREE_H_
 #include<bits/stdc++.h>

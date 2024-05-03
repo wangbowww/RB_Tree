@@ -1,3 +1,7 @@
+/*
+标准STL的map应用
+*/
+
 #include<bits/stdc++.h>
 #define endl "\n"
 using namespace std;
