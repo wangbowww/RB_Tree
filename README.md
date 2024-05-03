@@ -4,6 +4,8 @@
 
 • 编写一个小型的英汉词典索引，并实现简单的检索功能
 
+• 提供了一份实验报告和一个PPT演示文档，辅助该项目的红黑树实现的说明
+
 • 1.txt和2.txt用于测试dictionary  具体参见dictionary.cpp
 
 • data.txt用于mkd.cpp生成测试数据
